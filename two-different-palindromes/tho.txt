@@ -1,0 +1,11 @@
+When both EVEN
+Middle Placing with equal padding
+1) For 0
+2) For 1
+
+When Both Odd
+no
+
+When one Even one Odd
+1) middle placing for odd
+2) Adjacent Placing with odd leading and ending (odd must be >1)
