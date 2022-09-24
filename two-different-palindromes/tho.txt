@@ -10,3 +10,4 @@ When one Even one Odd
 1) middle placing for odd
 2) Adjacent Placing with odd leading and ending (odd must be >1)
 
+
